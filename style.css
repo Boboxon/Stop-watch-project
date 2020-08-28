@@ -1,0 +1,20 @@
+    body{
+    background-color: 	#FF6347;
+}
+
+.container{
+    
+    height: 300px;
+    width: 100%;
+}
+
+#display{
+    font-size: 72px;
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.buttons{
+    text-align: center;
+}
